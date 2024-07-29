@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-27T12:28:15 EDT" name="Suite" finished-at="2024-07-27T12:28:43 EDT" duration-ms="28329">
+    <groups>
+    </groups>
+    <test started-at="2024-07-27T12:28:15 EDT" name="Test" finished-at="2024-07-27T12:28:43 EDT" duration-ms="28329">
+      <class name="com.BootCamp.Part2.TestCases.LoginTest">
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:com.BootCamp.Part2.TestCases.LoginTest@6aba2b86]" started-at="2024-07-27T12:28:37 EDT" name="setUpPage" finished-at="2024-07-27T12:28:41 EDT" duration-ms="4749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method signature="loginWithvalidCredentials()[pri:0, instance:com.BootCamp.Part2.TestCases.LoginTest@6aba2b86]" started-at="2024-07-27T12:28:41 EDT" name="loginWithvalidCredentials" finished-at="2024-07-27T12:28:43 EDT" duration-ms="1489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootCamp.Part2.TestCases.LoginTest@6aba2b86]" started-at="2024-07-27T12:28:43 EDT" name="tearDown" finished-at="2024-07-27T12:28:43 EDT" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootCamp.Part2.TestCases.LoginTest -->
+      <class name="com.BootCamp.Part2.TestCases.CheckoutTest">
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.BootCamp.Part2.TestCases.CheckoutTest@71809907]" started-at="2024-07-27T12:28:23 EDT" name="setupPage" finished-at="2024-07-27T12:28:27 EDT" duration-ms="4195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="checkoutValidproduct()[pri:0, instance:com.BootCamp.Part2.TestCases.CheckoutTest@71809907]" started-at="2024-07-27T12:28:27 EDT" name="checkoutValidproduct" finished-at="2024-07-27T12:28:29 EDT" duration-ms="2395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutValidproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootCamp.Part2.TestCases.CheckoutTest@71809907]" started-at="2024-07-27T12:28:29 EDT" name="tearDown" finished-at="2024-07-27T12:28:29 EDT" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootCamp.Part2.TestCases.CheckoutTest -->
+      <class name="com.BootCamp.Part2.TestCases.RegisterTest">
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:com.BootCamp.Part2.TestCases.RegisterTest@3ce1e309]" started-at="2024-07-27T12:28:29 EDT" name="setUpPage" finished-at="2024-07-27T12:28:35 EDT" duration-ms="5151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method signature="registerWithValidCredential()[pri:0, instance:com.BootCamp.Part2.TestCases.RegisterTest@3ce1e309]" started-at="2024-07-27T12:28:35 EDT" name="registerWithValidCredential" finished-at="2024-07-27T12:28:37 EDT" duration-ms="1948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithValidCredential -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootCamp.Part2.TestCases.RegisterTest@3ce1e309]" started-at="2024-07-27T12:28:37 EDT" name="tearDown" finished-at="2024-07-27T12:28:37 EDT" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootCamp.Part2.TestCases.RegisterTest -->
+      <class name="com.BootCamp.Part2.TestCases.SearchProductTest">
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:com.BootCamp.Part2.TestCases.SearchProductTest@68999068]" started-at="2024-07-27T12:28:15 EDT" name="setUpPage" finished-at="2024-07-27T12:28:21 EDT" duration-ms="6397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method signature="validProductsearch()[pri:0, instance:com.BootCamp.Part2.TestCases.SearchProductTest@68999068]" started-at="2024-07-27T12:28:21 EDT" name="validProductsearch" finished-at="2024-07-27T12:28:22 EDT" duration-ms="1023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validProductsearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootCamp.Part2.TestCases.SearchProductTest@68999068]" started-at="2024-07-27T12:28:22 EDT" name="tearDown" finished-at="2024-07-27T12:28:23 EDT" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootCamp.Part2.TestCases.SearchProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

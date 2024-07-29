@@ -9,7 +9,7 @@ public class Homepage {
 	
 	public WebDriver driver;
 	
-	@FindBy(linkText = "My Account")
+	@FindBy(xpath = "//div[@class = 'pull-left']/following::a[2]")
 	private WebElement myAccountDropDown;
 	
 	@FindBy(linkText = "Login")
